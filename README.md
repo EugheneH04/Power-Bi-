@@ -7,6 +7,7 @@ This Power BI project offers a comprehensive sales analysis across multiple dime
 ## 📁 Report Pages Overview
 
 ### 1. 🏠 Dashboard
+![Dashboard Preview](images/Screenshot%201.png)
 
 #### 🔧 Features:
 - **Slicers**: Filter by Country, Segment, Year

@@ -7,7 +7,6 @@ This Power BI project offers a comprehensive sales analysis across multiple dime
 ## 📁 Report Pages Overview
 
 ### 1. 🏠 Dashboard
-![Dashboard Preview](images/Screenshot%201.png)
 
 #### 🔧 Features:
 - **Slicers**: Filter by Country, Segment, Year
@@ -61,11 +60,3 @@ This Power BI project offers a comprehensive sales analysis across multiple dime
 - ✅ **Diverse Visuals**: Line, bar, pie, gauge, and map charts for better storytelling
 - ✅ **Tooltip-Enhanced Cards**: Quickly view more data without navigating away
 
----
-
-## 🚀 How to Use
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/<your-username>/PowerBI-Sales-Analysis.git
-   cd PowerBI-Sales-Analysis
